@@ -1,6 +1,7 @@
 import random
 import time
 
+# Game Loop 
 def LoopGame():
     time.sleep(0.5)
     print("===============================================")
